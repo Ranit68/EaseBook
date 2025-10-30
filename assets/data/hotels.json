@@ -1,0 +1,291 @@
+{
+  "hotels": [
+    {
+      "id": "h1",
+      "name": "Azure Bay Resort",
+      "city": "Goa",
+      "price": 4999,
+      "rating": 4.6,
+      "image": "https://images.luxuryescapes.com/fl_progressive,q_auto:best,dpr_2.0/ky8oxwyu4et2iaamy63q",
+      "reviews": 234,
+      "description": "Beachfront resort with modern amenities, pool and spa.",
+      "amenities": ["Free WiFi", "Pool", "Spa", "Breakfast included"],
+      "rooms": [
+        {
+          "id": "r1",
+          "title": "Deluxe King Room",
+          "images": [
+            "https://www.momondo.in/himg/c4/90/de/leonardo-2103845-HRH_Goa_Guest_Room_35_O-705654.jpg",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68350005.jpg?k=7d6507005719bbe143948cd53497ffc4f89161fbc38f14af5d8c51ce1e8f1d78&o="
+          ],
+          "adults": 2,
+          "size": "216 sq.ft (20 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 1,
+          "balcony": true,
+          "amenities": ["AC", "TV", "WiFi"],
+          "complimentary": ["Hi-Tea", "Breakfast"],
+          "price": 2500,
+          "freeCancellation": true,
+          "freeCancellationUntil": "2025-12-31T00:00:00Z"
+        },
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoudFiR8cJqYLW72w5ofpRlUNWik_BxTULLg&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVm70YPxEBxAjVX-w3LTydth0t6o8K2s65kRK_RgsS3ckCizNQ7nmVAdH2q_X3FC5aK0&usqp=CAU"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        }
+      ]
+    },
+    {
+      "id": "h2",
+      "name": "Mountain View Inn",
+      "city": "Manali",
+      "price": 2999,
+      "rating": 4.4,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/66/1f/75/hotel-facade.jpg?w=1200&h=-1&s=1",
+      "reviews": 150,
+      "description": "Cozy inn with mountain views and fireplace lounges.",
+      "amenities": ["Free parking", "Pet friendly", "Breakfast included"],
+      "rooms": [
+        {
+          "id": "r1",
+          "title": "Deluxe King Room",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/b4/93/9d/panoramic-room.jpg?w=1200&h=-1&s=1",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfk3dV31XFGdkHdUy3im8GapbBphWZmSMDqMoaXvrvsIiGeRRIj0RIQmNVuKVh91nBoYM&usqp=CAU"
+          ],
+          "adults": 2,
+          "size": "216 sq.ft (20 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 1,
+          "balcony": true,
+          "amenities": ["AC", "TV", "WiFi"],
+          "complimentary": ["Hi-Tea", "Breakfast"],
+          "price": 2500,
+          "freeCancellation": true,
+          "freeCancellationUntil": "2025-12-31T00:00:00Z"
+        },
+        {
+          "id": "r1",
+          "title": "Deluxe King Room",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/75/b5/30/caption.jpg?w=700&h=-1&s=1",
+            "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_267,q_40,w_400/hotelier-images/f9/d1/3b5efa6d108caa28ff549623a094b7ca33213cf9279fac8f705c21bfe18f.jpeg"
+          ],
+          "adults": 2,
+          "size": "216 sq.ft (20 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 1,
+          "balcony": true,
+          "amenities": ["AC", "TV", "WiFi"],
+          "complimentary": ["Hi-Tea", "Breakfast"],
+          "price": 2500,
+          "freeCancellation": true,
+          "freeCancellationUntil": "2025-12-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "h3",
+      "name": "City Lights Hotel",
+      "city": "Mumbai",
+      "price": 3999,
+      "rating": 4.2,
+      "image": "https://b2128690.smushcdn.com/2128690/wp-content/uploads/2022/05/eau-bar-oberoi-hotel-mumbai.jpg?lossy=2&strip=1&webp=1",
+      "reviews": 410,
+      "description": "Upscale hotel in the heart of the city with rooftop bar.",
+      "amenities": ["Gym", "Rooftop bar", "Free WiFi"],
+      "rooms": [
+        {
+          "id": "r1",
+          "title": "Deluxe King Room",
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYMG_A7wNMBxR0yIECwjkilZOl1VI3W9Ay9Q&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtAhl8EIsdy8i7L3UGNKvFOqU5jc0AxrjfThuLNi5MxEhqoKSbruk03J8nPrb_SykWRcM&usqp=CAU"
+          ],
+          "adults": 2,
+          "size": "216 sq.ft (20 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 1,
+          "balcony": true,
+          "amenities": ["AC", "TV", "WiFi"],
+          "complimentary": ["Hi-Tea", "Breakfast"],
+          "price": 2500,
+          "freeCancellation": true,
+          "freeCancellationUntil": "2025-12-31T00:00:00Z"
+        },
+        {
+          "id": "r1",
+          "title": "Deluxe King Room",
+          "images": [
+            "https://preview.redd.it/view-from-trident-suite-mumbai-v0-8l5r2us4q9dd1.jpg?width=1080&crop=smart&auto=webp&s=1ef196cf381d7f711f51674908aebc19f719a40d",
+            "https://gos3.ibcdn.com/b7067a14-8dc5-4e51-a375-2331db43f9f1.JPG"
+          ],
+          "adults": 2,
+          "size": "216 sq.ft (20 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 1,
+          "balcony": true,
+          "amenities": ["AC", "TV", "WiFi"],
+          "complimentary": ["Hi-Tea", "Breakfast"],
+          "price": 2500,
+          "freeCancellation": true,
+          "freeCancellationUntil": "2025-12-31T00:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "h4",
+      "name": "Mountain Bliss Retreat",
+      "city": "Manali",
+      "rating": 4.7,
+      "price": 5800,
+      "image": "https://rukmini-ct.flixcart.com/w_2048,f_auto,q_auto/ct-hotel-images/places/hotels/cms/2047/2047360/images/image_2047360_3c4ea344-da69-49e6-a056-bbcd17fe986d_proc.jpeg",
+      "reviews": 720,
+      "description": "A cozy retreat in the heart of the Himalayas offering bonfire nights, mountain views, and fresh local cuisine.",
+      "amenities": ["Bonfire", "Restaurant", "Mountain View", "WiFi", "Room Heater"],
+      "rooms": [
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/5a/ae/cf/well-appointed-super.jpg?w=1200&h=-1&s=1",
+            "https://www.holidify.com/images/cmsuploads/compressed/164491495_20220223173822.jpg"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        },
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://images.trvl-media.com/lodging/91000000/90360000/90355300/90355241/7a2801ba.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+            "https://r1imghtlak.mmtcdn.com/17c143c074c311ee892a0a58a9feac02.jpg"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        }
+      ]
+    },
+    {
+      "id": "h5",
+      "name": "Sea View Resort",
+      "city": "Goa",
+      "rating": 4.6,
+      "price": 7200,
+      "reviews": 720,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_YBf12ktsRRupM69qd86niC95B-h4iB9RBw&s",
+      "description": "Enjoy beach-facing rooms with private balconies and pool access at Sea View Resort, Goa.",
+      "amenities": ["Beach Access", "Restaurant", "Bar", "Pool", "WiFi", "Free Parking"],
+      "rooms": [
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qMZSxxRp-BCVQGSwsPTXKveqUHOTWumHpSzf4QWkNIVaHg7-Qrcy75zkW6SQeKtxK_8&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdpJs6dXAWVjn94JSCKxeCQLw4x5Ql9zbzzEUGAlVSXwQqY1UikLNVEHnYpBwPCYATho&usqp=CAU"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        },
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLG-DdojEa5LpXdnmb5mCxihe5Z3rO82ZO9PhAgpko1g30x7ZivT-uKH_aDHWWDOl7sPA&usqp=CAU",
+            "https://content.r9cdn.net/rimg/himg/03/fc/bf/expedia_group-606269-1deee6-600062.jpg?width=500&height=350&xhint=1040&yhint=666&crop=true"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        }
+      ]
+    },
+    {
+      "id": "h6",
+      "name": "Royal Heritage Palace",
+      "city": "Jaipur",
+      "rating": 4.8,
+      "price": 8500,
+      "reviews": 540,
+      "image": "https://r1imghtlak.ibcdn.com/57663784996211e8bfae0adfcdb46c1c.jpg?&output-quality=75&downsize=342:189&crop=342:189;0,19&output-format=webp",
+      "description": "Experience royal comfort in Jaipur with classic architecture, luxurious rooms, and fine dining.",
+      "amenities": ["Fine Dining", "Free WiFi", "Spa", "Swimming Pool", "Parking"],
+      "rooms": [
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/26/02/62/palakkad-heritage-hotel.jpg?w=700&h=-1&s=1",
+            "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/c8/8d/84/haveli-kalwara-a-heritage.jpg?w=900&h=500&s=1"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        },
+        {
+          "id": "r2",
+          "title": "Executive Suite",
+          "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AjNTUMl4UqSJfH7o6gP8mEvP1rw0_SSOseMKeFYkTq96RDbHbBNPzdW19o14Qtp-iU4&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT29EP15aIHdJ9y6c7UwTvwA50mvNSQiBs-EErHCnLSyGz8toZkQhpLtV6iIrk27GM_GvE&usqp=CAU"
+          ],
+          "adults": 3,
+          "size": "350 sq.ft (32 sq.mt)",
+          "bed": "King Bed",
+          "bathrooms": 2,
+          "balcony": true,
+          "amenities": ["AC", "TV", "Mini Bar", "WiFi"],
+          "complimentary": ["Breakfast"],
+          "price": 4200,
+          "freeCancellation": false
+        }
+      ]
+    }
+  ]
+}

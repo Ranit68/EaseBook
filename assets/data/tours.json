@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Goa",
+    "image": "https://www.ravelroads.com/images/kasi/goa-tour-package.jpg",
+    "duration": "3N/4D",
+    "tours": [
+      {
+        "title": "North Goa Away From The Crowds",
+        "price": 6354,
+        "rating": 4.5,
+        "hotel_name": "Golden Tulip Goa Vagator",
+        "hotel_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/90/f8/exterior.jpg?w=1200&h=-1&s=1",
+        "description": "3 nights stay at a 4-star resort with breakfast and sightseeing.",
+        "includes": [
+          "3 Nights stay in Golden Tulip Goa Vagator",
+          "Daily breakfast included",
+          "Happy hours complimentary beverages",
+          "Sightseeing tour of North Goa"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival in Goa", "details": "Check in to the hotel and enjoy leisure time at the beach." },
+          { "day": "Day 2", "title": "Explore North Goa", "details": "Visit Fort Aguada, Baga Beach, and enjoy water sports." },
+          { "day": "Day 3", "title": "Leisure & Departure", "details": "Enjoy breakfast and check out. Optional spa or shopping tour." }
+        ]
+      },
+      {
+        "title": "Romantic Goa Getaway",
+        "price": 8500,
+        "rating": 4.8,
+        "hotel_name": "Taj Fort Aguada Resort",
+        "hotel_image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/68350205.jpg?k=2dc76622104d661a32d99e07f7edefd63ac7706fe079070585257209e89c9ec6&o=",
+        "description": "Romantic stay for couples with candlelight dinner and private beach access.",
+        "includes": [
+          "3 Nights stay at Taj Fort Aguada Resort",
+          "Daily breakfast and one candlelight dinner",
+          "Private beach access",
+          "Couple spa session"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival & Relaxation", "details": "Welcome drink and romantic setup at resort." },
+          { "day": "Day 2", "title": "Beach Exploration", "details": "Visit Calangute and Anjuna Beach with private cab." },
+          { "day": "Day 3", "title": "Couple Spa & Dinner", "details": "Relaxing spa followed by candlelight dinner." }
+        ]
+      },
+      {
+        "title": "Budget Backpacker Goa",
+        "price": 4200,
+        "rating": 4.3,
+        "hotel_name": "Zostel Goa",
+        "hotel_image": "https://assets.hyatt.com/content/dam/hyatt/hyattdam/images/2023/06/28/0336/GOAZG-P0007-Pool-Area-Night.jpg/GOAZG-P0007-Pool-Area-Night.4x3.jpg",
+        "description": "Affordable backpacker stay near beach with shared dorms and activities.",
+        "includes": [
+          "3 Nights hostel stay at Zostel Goa",
+          "Group bonfire and games",
+          "Local sightseeing tour",
+          "Free Wi-Fi"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Check-in & Bonfire", "details": "Arrive and enjoy evening games with travelers." },
+          { "day": "Day 2", "title": "Beach Hopping", "details": "Visit Vagator, Baga, and Anjuna." },
+          { "day": "Day 3", "title": "Local Culture", "details": "Explore flea market and enjoy Goan food." }
+        ]
+      },
+      {
+        "title": "Luxury South Goa Escape",
+        "price": 12000,
+        "rating": 4.9,
+        "hotel_name": "Planet Hollywood Beach Resort",
+        "hotel_image": "https://images.trvl-media.com/lodging/61000000/60650000/60643100/60643033/cbcaf799_y.jpg?impolicy=resizecrop&rw=402&ra=fit",
+        "description": "Premium beachfront resort experience in South Goa.",
+        "includes": [
+          "3 Nights luxury stay with ocean view",
+          "All meals included",
+          "Private cab transfers",
+          "Spa and yoga sessions"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Check in and relax at private beach." },
+          { "day": "Day 2", "title": "Sightseeing", "details": "Visit Colva and Palolem beaches." },
+          { "day": "Day 3", "title": "Leisure", "details": "Enjoy spa or yoga before departure." }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Manali",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/The-Best-Adventure-Experiences-in-Manali1-hero?qlt=82&ts=1726731002736",
+    "duration": "4N/5D",
+    "tours": [
+      {
+        "title": "Snow Adventure Manali Package",
+        "price": 7200,
+        "rating": 4.7,
+        "hotel_name": "The Himalayan Resort",
+        "hotel_image": "https://images.trvl-media.com/lodging/94000000/93020000/93017800/93017705/411b5823.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+        "description": "Snow-filled adventure with meals and transfers included.",
+        "includes": [
+          "4 Nights stay at The Himalayan Resort",
+          "Daily breakfast and dinner",
+          "Snow adventure and Solang Valley visit",
+          "Private cab for sightseeing"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Check-in and enjoy scenic views." },
+          { "day": "Day 2", "title": "Solang Valley Adventure", "details": "Snow sports and paragliding." },
+          { "day": "Day 3", "title": "Local Sightseeing", "details": "Visit Hadimba Temple and Mall Road." },
+          { "day": "Day 4", "title": "Departure", "details": "Check-out with memories." }
+        ]
+      },
+      {
+        "title": "Couple’s Paradise Manali",
+        "price": 9400,
+        "rating": 4.8,
+        "hotel_name": "Apple Country Resort",
+        "hotel_image": "https://d3s17d6e02vnzq.cloudfront.net/0000/124/2024/08/01/hotel-himgiri-manali-20-600.webp",
+        "description": "Romantic getaway with valley view rooms and candlelight dinner.",
+        "includes": [
+          "4 Nights stay in Apple Country Resort",
+          "Daily breakfast and dinner",
+          "Candlelight dinner",
+          "Sightseeing and local transfers"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Warm welcome with dinner setup." },
+          { "day": "Day 2", "title": "Rohtang Pass", "details": "Day trip to snow-covered Rohtang." },
+          { "day": "Day 3", "title": "Leisure", "details": "Explore cafes and riverside walks." },
+          { "day": "Day 4", "title": "Departure", "details": "Check-out after breakfast." }
+        ]
+      },
+      {
+        "title": "Budget Hillside Stay",
+        "price": 4800,
+        "rating": 4.2,
+        "hotel_name": "Hotel Greenfields",
+        "hotel_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/5e/a0/11/natraj-hotel.jpg?w=900&h=-1&s=1",
+        "description": "Pocket-friendly stay for solo and group travelers.",
+        "includes": [
+          "4 Nights standard stay",
+          "Breakfast included",
+          "Group sightseeing tour",
+          "Free Wi-Fi"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Settle in and relax." },
+          { "day": "Day 2", "title": "Local Tour", "details": "Mall Road and Manu Temple visit." },
+          { "day": "Day 3", "title": "Snow Day", "details": "Visit Solang Valley for adventure." },
+          { "day": "Day 4", "title": "Departure", "details": "Checkout and transfer." }
+        ]
+      },
+      {
+        "title": "Luxury Manali Hills Retreat",
+        "price": 14000,
+        "rating": 4.9,
+        "hotel_name": "Span Resort & Spa",
+        "hotel_image": "https://gos3.ibcdn.com/f68c24e4cde411ec8b480a58a9feac02.jpg",
+        "description": "Luxury riverside stay with spa and fine dining.",
+        "includes": [
+          "4 Nights luxury stay",
+          "All meals included",
+          "Spa session",
+          "Private sightseeing cab"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Check-in with welcome drink." },
+          { "day": "Day 2", "title": "Explore Nature", "details": "Visit waterfalls and pine forests." },
+          { "day": "Day 3", "title": "Spa & Relaxation", "details": "Enjoy wellness and spa sessions." },
+          { "day": "Day 4", "title": "Departure", "details": "Checkout and transfer." }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jaipur",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/hawa-mahal-jaipur-rajasthan-city-1-hero?qlt=82&ts=1742200253577",
+    "duration": "3N/4D",
+    "tours": [
+      {
+        "title": "Royal Jaipur Experience",
+        "price": 5800,
+        "rating": 4.6,
+        "hotel_name": "Umaid Mahal Heritage Hotel",
+        "hotel_image": "https://r1imghtlak.ibcdn.com/57663784996211e8bfae0adfcdb46c1c.jpg?&output-quality=75&downsize=342:189&crop=342:189;0,19&output-format=webp",
+        "description": "Experience royal Rajasthan heritage and culture.",
+        "includes": [
+          "3 Nights stay at Umaid Mahal",
+          "Breakfast included",
+          "Amber Fort & City Palace visits",
+          "Cultural dance evening"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Check-in and explore local bazaars." },
+          { "day": "Day 2", "title": "Amber Fort & Hawa Mahal", "details": "Sightseeing with guide." },
+          { "day": "Day 3", "title": "City Tour", "details": "Visit City Palace and Jantar Mantar." }
+        ]
+      },
+      {
+        "title": "Luxury Heritage Jaipur",
+        "price": 11500,
+        "rating": 4.9,
+        "hotel_name": "Rambagh Palace",
+        "hotel_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nG1OcvQ8ap8p8-fxmcU98tVs-5gbUog59zeQ_bWVBsnr_jJK6DOBSb2Pou9H9US5Cl8&usqp=CAU",
+        "description": "Stay like royalty in the palace with full luxury treatment.",
+        "includes": [
+          "Luxury suite stay",
+          "All meals",
+          "Private guided tour",
+          "Cultural show and dinner"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Welcome", "details": "Royal welcome ceremony." },
+          { "day": "Day 2", "title": "Fort Visits", "details": "Amber and Nahargarh Fort." },
+          { "day": "Day 3", "title": "Relaxation", "details": "Enjoy royal spa." }
+        ]
+      },
+      {
+        "title": "Budget Pink City Tour",
+        "price": 4500,
+        "rating": 4.2,
+        "hotel_name": "Hotel Pearl Palace",
+        "hotel_image": "https://cdn.tajhotels.com/images/ocl5w36p/prod5/02d5266ba2e7a05097c8aa5c6f5533095f8b50fc-3840x1860.jpg",
+        "description": "Affordable sightseeing of the Pink City.",
+        "includes": [
+          "3 Nights budget stay",
+          "Daily breakfast",
+          "Group sightseeing bus tour",
+          "Free Wi-Fi"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Check-in and explore nearby shops." },
+          { "day": "Day 2", "title": "Fort Tour", "details": "Amber and Jaigarh Forts." },
+          { "day": "Day 3", "title": "City Market", "details": "Shopping and local food tasting." }
+        ]
+      },
+      {
+        "title": "Cultural Jaipur Tour",
+        "price": 7000,
+        "rating": 4.7,
+        "hotel_name": "Alsisar Haveli",
+        "hotel_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fQtFtZaJkne-4cVpZgO7jLv-dNeU-d0naTKD6FAvLlU_xJLgTGECHcwkX_w9gSUePow&usqp=CAU",
+        "description": "Traditional haveli stay with folk performances.",
+        "includes": [
+          "3 Nights stay",
+          "Cultural dance & dinner",
+          "Fort and market tours",
+          "Breakfast included"
+        ],
+        "itinerary": [
+          { "day": "Day 1", "title": "Arrival", "details": "Traditional welcome." },
+          { "day": "Day 2", "title": "Sightseeing", "details": "Palace and fort tour." },
+          { "day": "Day 3", "title": "Cultural Night", "details": "Enjoy music and food." }
+        ]
+      }
+    ]
+  }
+]
